@@ -4,6 +4,7 @@ I am posting here course material related to my Operations Management course, Em
 
 ### Discrete event simulation
 
-Introduction
+[Introduction](https://maolivar.github.io/hands-on-analytics/simulacion/intro_simulacion.html)
 
-Using Simpy (Jupyter Notebook)
+[Using Simpy](https://maolivar.github.io/hands-on-analytics/simulacion/simpy_tutorial.html) (link to Jupyter Notebook)
+
