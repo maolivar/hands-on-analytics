@@ -8,3 +8,4 @@ I am posting here course material related to my Operations Management course, Em
 
 [Using Simpy](https://maolivar.github.io/hands-on-analytics/simulacion/simpy_tutorial.html) (link to Jupyter Notebook)
 
+[Arena tutorial video](https://www.youtube.com/watch?v=r56Qusa72S0) (Spanish)
